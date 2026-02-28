@@ -6,7 +6,7 @@ Summary:	Library to assist testing with a fresh DBus daemon
 Summary(pl.UTF-8):	Biblioteka wspomagające testowanie z użyciem demona DBus
 Name:		dbus-test-runner
 Version:	12.10.1
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries
 Source0:	https://launchpad.net/dbus-test-runner/12.10/%{version}/+download/%{name}-%{version}.tar.gz
